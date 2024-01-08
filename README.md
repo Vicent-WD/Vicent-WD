@@ -15,7 +15,10 @@
 ## 🦾 These are my recently creations :
   
 
-     <a href="https://personalplus.com.ve" target="_blank" >❤️ Wedding & Event Planner WebSite</a>
+<a href="https://personalplus.com.ve" target="_blank" >❤️ Wedding & Event Planner WebSite</a>
+
+A beautiful, complete and useful web site for an important brand of Wedding and Event Planners of LATAM. 
+I'm very proud of all the helpful that has been the platform showing the awesome events and been the way to catch new clients
 
 > [!NOTE]
 > At the moment to create new site for brands, I become part of the team been conscient about the big true;
