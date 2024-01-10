@@ -2,6 +2,12 @@
 
 - 👋 Hi there !  I’m @Vicent-WD
 - 🌃 I work as Web Developer & Designer especialized on Wordpress
+
+<h3>Plathforms that I use</h3>
+
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+
 - 🌱 I’m currently developing Apps and Websites with;
   - Wordpress 
   - PHP,
@@ -10,7 +16,7 @@
   - Bootstrap and _ofcourse_;
   - Javascript 🤩;
  
-> You can know more about me on  <p><a href="https://www.instagram.com/vicent_oriber20" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-purple?.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a> </p>  [@vicent_oriber20](https://www.instagram.com/vicent_oriber20/) 
+> You can know more about me on  <p><a href="https://www.instagram.com/vicent_oriber20" target="_blank" alt="Vicent_oriber20"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-purple?.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a> </p>
 
 ## 🦾 These are my recently creations :
   
