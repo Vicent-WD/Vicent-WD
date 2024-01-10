@@ -4,7 +4,7 @@
 - 🌃 I work as Web Developer & Designer especialized on Wordpress
 
 <h3>Plathforms that I use</h3>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+ <p> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" /> </p>
 
 - 🌱 I’m currently developing Apps and Websites with;
   - Wordpress 
