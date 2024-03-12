@@ -8,12 +8,7 @@
 </p>
 
 ## 🌱 I’m currently developing Apps and Websites with;
-   <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-0a0a0a?style=flat-square&logo=wordpress&logoColor=white" />  
-   <img alt="PHP" src="https://img.shields.io/badge/-Php-7E69E0?style=flat-square&logo=php&logoColor=white" />
-   <img alt="HTML" src="https://img.shields.io/badge/-Html-3d3d3d?style=flat-square&logo=html&logoColor=white" />
-   <img alt="CSS" src="https://img.shields.io/badge/-Css-44b7e9?style=flat-square&logo=css&logoColor=white" />
-   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-5a23c8?style=flat-square&logo=bootstrap&logoColor=white" />
-   <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=white" />
+   <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-0a0a0a?style=flat-square&logo=wordpress&logoColor=white" />  <img alt="PHP" src="https://img.shields.io/badge/-Php-7E69E0?style=flat-square&logo=php&logoColor=white" /> <img alt="HTML" src="https://img.shields.io/badge/-Html-3d3d3d?style=flat-square&logo=html&logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/-Css-44b7e9?style=flat-square&logo=css&logoColor=white" /> <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-5a23c8?style=flat-square&logo=bootstrap&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=white" />
  
 > You can know more about me on  <p><a href="https://www.instagram.com/vicent_oriber20" target="_blank" alt="Vicent_oriber20"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-purple?.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a> </p>
 
