@@ -22,8 +22,10 @@ I'm very proud of all the helpful that has been the platform to showing the awes
 
 > [!NOTE]
 > At the moment to create new site for brands, I become part of the team been conscient about the big true;
-> Your growing is My growing too 
-     
+> Your growing is My growing too
+
+## Other Stuff
+
 ### <a href="https://vicent-wd.github.io/Agencia.github.io/" target="_blank">    🛍️ Marketing Agency</a> <br>
 ### <a href="https://vicent-wd.github.io/TiendaDeRopa.github.io/" target="_blank" >    🧥 Online Clothing Store</a> <br>
 ### <a href="https://vicent-wd.github.io/thehugecompany.github.io/" target="_blank" >    🚧 Contractor Company's WebSite</a> <br>
